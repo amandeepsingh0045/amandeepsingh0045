@@ -20,6 +20,6 @@ I am passionate about learning new technologies and enhancing my skills in softw
     <img src="https://github.com/get-icon/geticon/blob/master/icons/appium.svg" alt="appium" width="40" height="40"/>
   </a>
   <a href="https://www.microfocus.com/en-us/products/uft-one/overview" target="_blank" rel="noreferrer">
-    <img src="UFT_ICON_URL" alt="uft" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Uft.png" alt="uft" width="40" height="40"/>
   </a>
 </p>
