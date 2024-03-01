@@ -32,5 +32,14 @@ I am passionate about learning new technologies and enhancing my skills in softw
     <a href="VBSCRIPT_LINK" target="_blank" rel="noreferrer">
     <img src="https://stackdiary.com/wp-content/uploads/2023/10/VBScript-is-getting-deprecated-768x432.png" alt="vbscript" width="40" height="40"/>
   </a>
+  <a href="https://www.salesforce.com/commerce-cloud/" target="_blank" rel="noreferrer">
+    <img src="https://www.vglobalinc.com/wp-content/uploads/2020/02/salesforce-commerce-cloud-logo.png" alt="sfcc" width="40" height="40"/>
+  </a>
+  <a href="https://www.microfocus.com/en-us/products/application-lifecycle-management/overview" target="_blank" rel="noreferrer">
+    <img src="HPALM_ICON_URL" alt="hpaln" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" alt="jira" width="40" height="40"/>
+  </a>
 
 </p>
