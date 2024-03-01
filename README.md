@@ -22,4 +22,11 @@ I am passionate about learning new technologies and enhancing my skills in softw
   <a href="https://www.microfocus.com/en-us/products/uft-one/overview" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Uft.png" alt="uft" width="40" height="40"/>
   </a>
+    <a href="VBSCRIPT_LINK" target="_blank" rel="noreferrer">
+    <img src="https://en.wikipedia.org/wiki/VBScript#/media/File:VBSccript_file_format_icon.png" alt="vbscript" width="40" height="40"/>
+  </a>
+  <a href="https://rest-assured.io" target="_blank" rel="noreferrer">
+    <img src="https://rest-assured.io/img/logo-transparent.png" alt="restassured" width="40" height="40"/>
+  </a>
+
 </p>
