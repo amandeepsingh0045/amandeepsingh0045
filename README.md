@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="center">A passionate Test Automation Engineer (QA) from India</h3>
 
+<body>
+  <p>I am working as a Software Engineer L1 - QA at Metyis, a global data-driven consultancy firm, I help clients transform their businesses by ensuring the quality and functionality of their web and mobile applications. I have a Bachelor of Engineering degree in Electronics and Communications Engineering from Panjab University, Chandigarh, which gave me a strong foundation in software development and testing.
+
+My core competencies include test automation, web and mobile testing, and API testing. I use various tools and frameworks such as Selenium, Java, TestNG, Maven, and Data Driven Framework to create and implement test plans and scenarios for functional and regression testing. I also use Gitlab, Jenkins, and Extent Report & Allure Report for code management, continuous integration and delivery, and report generation. I have successfully tested applications using SFCC, BrowserStack, and Appium. I received the Cognizant Cheers Award for my outstanding performance and dedication when I worked as a Programmer Analyst and Programmer Analyst Trainee at Cognizant.
+
+I am passionate about learning new technologies and enhancing my skills in software testing. I have completed multiple online courses and certifications in software testing. I am always eager to take on new challenges and contribute to the quality and success of the projects I work on. </p>
+</body>
+
 
 <p align="left">
 </p>
