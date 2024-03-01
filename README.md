@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amandeep </h1>
-  <h4><span class="bold">Amandeep Singh</span> <span class="grey">       Test Automation Engineer</span></h4>
+  <h2><span class="bold">Amandeep Singh</span> <span class="grey">       ,Test Automation Engineer</span></h2>
 
 
 <body>
