@@ -1,24 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amandeep </h1>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Text Styling</title>
-<style>
-  .bold {
-    font-weight: bold;
-    color: black;
-  }
-  .grey {
-    color: grey;
-  }
-</style>
-</head>
-<body>
-  <p><span class="bold">Amandeep Singh</span> <span class="grey">test automation engineer</span></p>
-</body>
-</html>
+  <h4><span class="bold">Amandeep Singh</span> <span class="grey">       Test Automation Engineer</span></h4>
 
 
 <body>
