@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
+<h1 align="center">Hi 👋, I'm Amandeep </h1>
 <h2 align="center">Amandeep Singh</h2>
-<h3 align="center">Test Automation Engineer</h3>
+<h4 align="right">Test Automation Engineer</h4>
 
 <body>
   <p>I am working as a Software Engineer L1 - QA at Metyis, a global data-driven consultancy firm, I help clients transform their businesses by ensuring the quality and functionality of their web and mobile applications. I have a Bachelor of Engineering degree in Electronics and Communications Engineering from Panjab University, Chandigarh, which gave me a strong foundation in software development and testing.
