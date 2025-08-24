@@ -3,12 +3,32 @@
 
 
 <body>
-  <p>I am working as a Software Engineer L1 - QA at Metyis, a global data-driven consultancy firm, I help clients transform their businesses by ensuring the quality and functionality of their web and mobile applications. I have a Bachelor of Engineering degree in Electronics and Communications Engineering from Panjab University, Chandigarh, which gave me a strong foundation in software development and testing.
+  <p>
+    I am currently working as a <b>Software Engineer 1 at Best Buy</b>, where I focus on ensuring the quality and performance of web and mobile applications through automation and performance testing. 
+    I hold a <b>Bachelor of Engineering degree in Electronics and Communications Engineering</b> from Panjab University, Chandigarh, which provided me with a strong foundation in software development and testing.
+  </p>
 
-My core competencies include test automation, web and mobile testing, and API testing. I use various tools and frameworks such as Selenium, Java, TestNG, UFT , Rest Assured ,Maven, and Data Driven Framework to create and implement test plans and scenarios for functional and regression testing. I also use Gitlab, Jenkins, and Extent Report & Allure Report for code management, continuous integration and delivery, and report generation. I have successfully tested applications using SFCC, BrowserStack, and Appium. I received the Cognizant Cheers Award for my outstanding performance and dedication when I worked as a Programmer Analyst and Programmer Analyst Trainee at Cognizant.
+  <p>
+    My core competencies include <b>test automation, mobile testing, web testing, API testing, and performance testing</b>. 
+    I have hands-on experience with tools and frameworks such as <b>Appium, Rest Assured, Detox, Selenium, Java, TestNG, Gradle, Maven, and JMeter</b>. 
+    I design and implement automation frameworks for <b>functional, regression, and performance testing</b>, ensuring faster delivery and higher product quality. 
+  </p>
 
-I am passionate about learning new technologies and enhancing my skills in software testing. I have completed multiple online courses and certifications in software testing. I am always eager to take on new challenges and contribute to the quality and success of the projects I work on. </p>
+  <p>
+    I also leverage <b>GitLab, Jenkins, and reporting frameworks like Allure & Extent Reports</b> for code management, CI/CD pipelines, and insightful test reporting. 
+    My experience extends to working with platforms such as <b>BrowserStack, Sauce Labs, and SFCC</b> for scalable and cross-platform testing.
+  </p>
+
+  <p>
+    Previously, I worked at <b>Cognizant</b> as a Programmer Analyst, where I was recognized with the <b>Cognizant Cheers Award</b> for my dedication and high performance.
+  </p>
+
+  <p>
+    I am passionate about learning new technologies, exploring modern testing frameworks, and contributing to building high-quality software products. 
+    I consistently upgrade my skills with online courses and certifications, and I thrive on taking on challenging projects that drive business success.
+  </p>
 </body>
+
 
 
 <p align="left">
