@@ -4,7 +4,7 @@
 
 <body>
   <p>
-    I am currently working as a <b>Software Engineer 1 at Best Buy</b>, where I focus on ensuring the quality and performance of web and mobile applications through automation and performance testing. 
+    I am currently working as a <b>Software Engineer  at Best Buy</b>, where I focus on ensuring the quality and performance of web and mobile applications through automation and performance testing. 
     I hold a <b>Bachelor of Engineering degree in Electronics and Communications Engineering</b> from Panjab University, Chandigarh, which provided me with a strong foundation in software development and testing.
   </p>
 
@@ -28,8 +28,12 @@
     I consistently upgrade my skills with online courses and certifications, and I thrive on taking on challenging projects that drive business success.
   </p>
 </body>
-
-
+<h3>🔗 Related Repository (Other GitHub Account)</h3>
+<p>
+  👉 <a href="https://github.com/amandeepsingh937" target="_blank">
+     https://github.com/amandeepsingh937
+     </a>
+</p>
 
 <p align="left">
 </p>
