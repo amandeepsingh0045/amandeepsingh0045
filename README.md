@@ -1,36 +1,98 @@
-<h1 align="center">Hi 👋, I'm Amandeep </h1>
-  <h<h2>
-  <span class="bold">Amandeep Singh</span>
-  <span class="grey"> | Software Engineer</span>
-</h2>
+# Hi, I'm Amandeep Singh 👋
 
+Software Engineer with **5.5+ years of experience** in Automation Engineering, Quality Engineering, and Distributed Systems testing. Currently working at **Best Buy India**, where I build scalable automation solutions and contribute to delivering reliable web, mobile, API, and microservices-based applications.
 
-<body>
-  <p>
-    I am currently working as a <b>Software Engineer  at Best Buy</b>, where I focus on ensuring the quality and performance of web and mobile applications through automation and performance testing. 
-    I hold a <b>Bachelor of Engineering degree in Electronics and Communications Engineering</b> from Panjab University, Chandigarh, which provided me with a strong foundation in software development and testing.
-  </p>
+## 🚀 Tech Stack
 
-  <p>
-    My core competencies include <b>test automation, mobile testing, web testing, API testing, and performance testing</b>. 
-    I have hands-on experience with tools and frameworks such as <b>Appium, Rest Assured, Detox, Selenium, Java, TestNG, Gradle, Maven, and JMeter</b>. 
-    I design and implement automation frameworks for <b>functional, regression, and performance testing</b>, ensuring faster delivery and higher product quality. 
-  </p>
+### Languages & Frameworks
 
-  <p>
-    I also leverage <b>GitLab, Jenkins, and reporting frameworks like Allure & Extent Reports</b> for code management, CI/CD pipelines, and insightful test reporting. 
-    My experience extends to working with platforms such as <b>BrowserStack, Sauce Labs, and SFCC</b> for scalable and cross-platform testing.
-  </p>
+* Java
+* Playwright
+* Selenium
+* Appium
+* REST Assured
+* TestNG
+* Maven
+* Gradle
 
-  <p>
-    Previously, I worked at <b>Cognizant</b> as a Programmer Analyst, where I was recognized with the <b>Cognizant Cheers Award</b> for my dedication and high performance.
-  </p>
+### CI/CD & DevOps
 
-  <p>
-    I am passionate about learning new technologies, exploring modern testing frameworks, and contributing to building high-quality software products. 
-    I consistently upgrade my skills with online courses and certifications, and I thrive on taking on challenging projects that drive business success.
-  </p>
-</body>
+* GitHub Actions
+* Jenkins
+* Docker
+* AWS
+
+### Performance & Observability
+
+* JMeter
+* Dynatrace
+* Splunk
+* Kibana
+
+### Testing Platforms
+
+* BrowserStack
+* Sauce Labs
+* LambdaTest
+
+---
+
+## 💡 Areas of Expertise
+
+* Test Automation Framework Development
+* Mobile Automation Testing
+* API & Integration Testing
+* Microservices & Distributed Systems Validation
+* CI/CD Pipeline Integration
+* Performance & Reliability Testing
+* Root Cause Analysis & Debugging
+* Quality Engineering Practices
+
+---
+
+## 🏢 Professional Experience
+
+### Best Buy India | Software Engineer
+
+* Designed and maintained automation frameworks covering UI, API, integration, and mobile testing.
+* Reduced regression effort by up to **70%** through scalable automation solutions.
+* Built automation using **Java, Playwright, Selenium, Appium, and REST Assured**.
+* Validated **React Native applications**, payment workflows, and distributed microservices.
+* Integrated automated testing into **GitHub Actions**, **Jenkins**, and Docker-based CI/CD pipelines.
+* Leveraged logs, traces, metrics, Splunk, Kibana, and Dynatrace to improve system reliability and accelerate debugging.
+
+### Cognizant | Programmer Analyst
+
+* Developed and executed large-scale automation suites using **UFT/QTP**.
+* Performed Database Testing using **MS SQL Server**.
+* Conducted ETL Testing using **IBM DataStage**.
+* Received the **Cognizant Cheers Award** for outstanding performance and contributions.
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+* Backend Engineering
+* Cloud Technologies & AWS
+* DevOps & Platform Engineering
+* Distributed Systems
+* Test Infrastructure
+* Performance Engineering
+
+---
+
+## 📈 Career Focus
+
+Building reliable engineering solutions through automation, observability, cloud technologies, and scalable software practices. Passionate about improving software quality, developer productivity, and release velocity.
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/amandeep0045/
+
+Feel free to explore my repositories and connect with me!
+
 <h3>🔗 Related Repository (Other GitHub Account)</h3>
 <p>
   👉 <a href="https://github.com/amandeepsingh937" target="_blank">
