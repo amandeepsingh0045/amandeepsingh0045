@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amandeep </h1>
-  <h2><span class="bold">Amandeep Singh</span> <span class="grey">       ,SDET</span></h2>
+  <h<h2>
+  <span class="bold">Amandeep Singh</span>
+  <span class="grey"> | Software Engineer</span>
+</h2>
 
 
 <body>
