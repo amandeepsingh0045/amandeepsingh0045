@@ -1,6 +1,19 @@
 # Hi, I'm Amandeep Singh 👋
 
-Software Engineer with **5.5+ years of experience** in Automation Engineering, Quality Engineering, and Distributed Systems testing. Currently working at **Best Buy India**, where I build scalable automation solutions and contribute to delivering reliable web, mobile, API, and microservices-based applications.
+Software Development Engineer in Test (SDET) with 6 years of experience designing scalable automation frameworks, validating distributed systems, and driving quality engineering initiatives across mobile, web, API, and microservices-based platforms.
+
+Currently at Best Buy India, I contribute to enterprise platforms used by Geek Squad field agents to support in-home services and  fulfillment operations. As part of the quality engineering team, I help deliver reliable releases for business-critical capabilities that generated over $1M in business impact within four months of launch, including initiatives that drove 31x year-over-year revenue growth and 9x growth in attachment volume while improving agent productivity and operational efficiency.
+
+🔹 Automation Engineering – Expertise in Java, Playwright, Selenium, Appium, REST Assured, TestNG, and Maven. Experienced in building reusable UI, API, mobile, and end-to-end automation frameworks that reduced regression effort by up to 70% and improved release confidence.
+🔹 API, Microservices & Distributed Systems – Hands-on experience validating REST APIs, event-driven architectures, asynchronous workflows, retry mechanisms, transaction processing, and data consistency across distributed systems.
+🔹 Enterprise & Mobile Applications – Experience testing React Native applications, field-service workflows, payment systems, fulfillment operations, and business-critical customer journeys across multiple platforms.
+🔹 CI/CD & Cloud – Skilled in integrating automated test suites into Jenkins and GitHub Actions pipelines using Docker and AWS, enabling continuous quality validation and faster release cycles.
+🔹 Observability & Production Readiness – Strong experience performing root cause analysis using Splunk, Kibana, Dynatrace, logs, traces, and metrics to improve reliability and production stability.
+🔹 Test Infrastructure – Hands-on experience with BrowserStack, Sauce Labs, LambdaTest, and cloud-based testing environments for scalable cross-platform validation.
+
+Domain expertise includes E-commerce, Payments, In-Home Fulfillment, Field Service Operations, Salesforce Commerce Cloud (SFCC), Healthcare (TriZetto Facets), and enterprise data platforms.
+
+Passionate about engineering excellence, scalable test automation, quality-driven development, and building reliable software that delivers measurable business outcomes..
 
 ## 🚀 Tech Stack
 
